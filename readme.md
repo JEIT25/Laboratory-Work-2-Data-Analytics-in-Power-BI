@@ -47,13 +47,13 @@ Standardized column naming conventions for readability and DAX integration:
 
 - [x] Cleaned dataset successfully loaded into Power BI.
 > **Cleaned Data Table (Split View):**
-> ![Cleaned Dataset Part 1](./screenshot_outputs/clean_dataset1.png)
-> ![Cleaned Dataset Part 2](./screenshot_outputs/clean_dataset2.png)
-> ![Cleaned Dataset Part 3](./screenshot_outputs/clean_dataset3.png)
+> ![Cleaned Dataset Part 1](./Screenshot_Outputs/clean_dataset1.png)
+> ![Cleaned Dataset Part 2](./Screenshot_Outputs/clean_dataset2.png)
+> ![Cleaned Dataset Part 3](./Screenshot_Outputs/clean_dataset3.png)
 
 - [x] Screenshot of the Applied Steps pane.
 > **Data Cleaning Transformation Steps:**
-> ![Applied Steps Pane](./screenshot_outputs/cleaning_applied_steps.png)
+> ![Applied Steps Pane](./Screenshot_Outputs/cleaning_applied_steps.png)
 
 ---
 
