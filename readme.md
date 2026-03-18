@@ -46,10 +46,14 @@ Standardized column naming conventions for readability and DAX integration:
 ## 📦 Student Deliverables
 
 - [x] Cleaned dataset successfully loaded into Power BI.
-> ![Cleaned Dataset in Power BI](./screenshot_outputs/image_a3d988.png)
+> **Cleaned Data Table (Split View):**
+> ![Cleaned Dataset Part 1](./screenshot_outputs/clean_dataset1.png)
+> ![Cleaned Dataset Part 2](./screenshot_outputs/clean_dataset2.png)
+> ![Cleaned Dataset Part 3](./screenshot_outputs/clean_dataset3.png)
 
 - [x] Screenshot of the Applied Steps pane.
-> ![Applied Steps Pane](./screenshot_outputs/image_a3d9aa.png)
+> **Data Cleaning Transformation Steps:**
+> ![Applied Steps Pane](./screenshot_outputs/cleaning_applied_steps.png)
 
 ---
 
