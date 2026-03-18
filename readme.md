@@ -5,7 +5,7 @@
 * Apply data transformation techniques using Power Query.
 
 ## 📁 Dataset
-* `Messy_Sales_Data.xlsx` (and the intermediate `Fixed_Dates_Only.csv` used for standardizing date formats).
+* `Messy_Sales_Data.xlsx` 
 
 ---
 
