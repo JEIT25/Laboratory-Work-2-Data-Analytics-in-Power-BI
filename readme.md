@@ -46,11 +46,10 @@ Standardized column naming conventions for readability and DAX integration:
 ## 📦 Student Deliverables
 
 - [x] Cleaned dataset successfully loaded into Power BI.
-- [x] Screenshot of the Applied Steps pane.
+> ![Cleaned Dataset in Power BI](./screenshot_outputs/image_a3d988.png)
 
-> **Note to Reviewer:** Insert the required screenshot of the Power Query 'Applied Steps' pane below.
-> 
-> ![Applied Steps Pane](./path_to_your_screenshot/applied_steps.png)
+- [x] Screenshot of the Applied Steps pane.
+> ![Applied Steps Pane](./screenshot_outputs/image_a3d9aa.png)
 
 ---
 
