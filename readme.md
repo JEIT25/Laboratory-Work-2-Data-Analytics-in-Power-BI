@@ -35,10 +35,10 @@
 Standardized naming conventions: `order_id`, `order_date`, `customer_name`, `total_sales`.
 
 > **Cleaned Data Deliverables:**
-> ![Cleaned Dataset Part 1](./screenshot_outputs/clean_dataset1.png)
-> ![Cleaned Dataset Part 2](./screenshot_outputs/clean_dataset2.png)
-> ![Cleaned Dataset Part 3](./screenshot_outputs/clean_dataset3.png)
-> ![Applied Steps Pane](./screenshot_outputs/cleaning_applied_steps.png)
+> ![Cleaned Dataset Part 1](./Screenshot_Outputs/clean_dataset1.png)
+> ![Cleaned Dataset Part 2](./Screenshot_Outputs/clean_dataset2.png)
+> ![Cleaned Dataset Part 3](./Screenshot_Outputs/clean_dataset3.png)
+> ![Applied Steps Pane](./Screenshot_Outputs/cleaning_applied_steps.png)
 
 ---
 
@@ -52,20 +52,12 @@ Standardized naming conventions: `order_id`, `order_date`, `customer_name`, `tot
 5. Selected **Inner (only matching rows)** as the Join Kind.
 6. Expanded the newly merged table to extract `Customer Name`, `Segment`, and `Country`.
 
-> **Merge Deliverables:**
-> ![Merge Dialog](./screenshot_outputs/image_4ddd00.png)
-> ![Expanded Columns](./screenshot_outputs/image_4de0a3.png)
-
 ### Part 2: Append Monthly Sales Files
 1. Loaded `Sales_January.csv`, `Sales_February.csv`, and `Sales_March.csv`.
 2. Ensured all three tables had matching column headers by promoting the first row to headers in January.
 3. Selected `Sales_January` and clicked **Append Queries as New**.
 4. Selected **Three or more tables** and added February and March to the list.
 5. Named the new combined query `All_Q1_Sales`.
-
-> **Append Deliverables:**
-> ![Append Dialog](./screenshot_outputs/image_4de03e.png)
-> ![Appended Result](./screenshot_outputs/image_4de388.png)
 
 ---
 
