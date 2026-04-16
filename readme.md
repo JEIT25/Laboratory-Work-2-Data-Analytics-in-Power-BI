@@ -1,5 +1,7 @@
 # Laboratory Work 2 - End-to-End Data Analytics in Power BI: From Data Cleaning to DAX Insights
 
+Google Slide Link: https://docs.google.com/presentation/d/1Ct00HKPchqnUpSoWsRcTO8h1Oqu1vRQMgHrnbMQBbGI/edit?usp=sharing
+
 ## 🎯 Lab Objectives
 * Clean and prepare raw datasets for analysis.
 * Apply data transformation techniques using Power Query.
