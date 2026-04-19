@@ -2,7 +2,7 @@
 
 ---
 
-# Student Nmae: Jerold M. Amora
+# Student Name: Jerold M. Amora
 
-# Powerpoint Link: https://docs.google.com/presentation/d/1Ct00HKPchqnUpSoWsRcTO8h1Oqu1vRQMgHrnbMQBbGI/edit?usp=sharing
+## Powerpoint Link: https://docs.google.com/presentation/d/1Ct00HKPchqnUpSoWsRcTO8h1Oqu1vRQMgHrnbMQBbGI/edit?usp=sharing
 
